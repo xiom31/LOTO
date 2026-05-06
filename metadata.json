@@ -1,0 +1,6 @@
+{
+  "name": "LOTO Master: SDE Piura Training",
+  "description": "An interactive and dynamic LOTO (Lockout/Tagout) training application for industrial workers at SDE Piura SAC power plant. Features dynamic modules, interactive simulations, and safety quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
